@@ -1,0 +1,9 @@
+﻿  mian.c
+  SeqList.c
+C:\Users\liufeipeng\source\repos\c_learning\SeqList\SeqList.c(5,26): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\liufeipeng\source\repos\c_learning\SeqList\SeqList.c(5,70): warning C4312: “类型强制转换”: 从“int”转换到更大的“ElemType *”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SeqList.vcxproj -> C:\Users\liufeipeng\source\repos\c_learning\x64\Release\SeqList.exe
